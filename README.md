@@ -5,7 +5,7 @@ The goal of each program is to compute and plot the Bit Error Rate (*BER*) in fu
 There are serveral chains implemented:
 - Basic chain on **baseband**.
 - Basic chain on **carrier frequency** (WIP)
-- Based on **CP-OFDM** (WIP)
+- Based on **CP-OFDM**
 
 To run these programs you'll need the **[Communications Toolbox](https://www.mathworks.com/products/communications.html)** from Matlab.
 
